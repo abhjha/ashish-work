@@ -1,0 +1,9 @@
+.footer-container{   
+    background: black;
+    color: white;
+}
+
+
+.footer-container ul{
+    list-style: none;
+}
