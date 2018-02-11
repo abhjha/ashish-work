@@ -15,9 +15,6 @@ class Slider extends Component {
             <img className="d-block w-100" src="https://www.fashionlady.in/wp-content/uploads/2017/06/disha-patani-height.jpg" alt="First slide"/>
           </div>
           <div className="carousel-item">
-            <img className="d-block w-100" src="http://www.bollywoodlife.com/wp-content/uploads/2017/02/Disha.jpg" alt="Second slide"/>
-          </div>
-          <div className="carousel-item">
             <img className="d-block w-100" src="http://images.indianexpress.com/2017/09/disha-759.jpg" alt="Third slide"/>
           </div>
         </div>
