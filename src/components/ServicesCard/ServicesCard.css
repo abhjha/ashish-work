@@ -1,0 +1,8 @@
+.services-card {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.services-card  p {
+    display: inline-block;
+}

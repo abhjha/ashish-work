@@ -1,0 +1,8 @@
+.about-card {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.about-card  p {
+    display: inline-block;
+}
