@@ -7,8 +7,7 @@ class Slider extends Component {
       <div id="home-slider" className="home-slider carousel slide" data-ride="carousel">
         <ol className="carousel-indicators">
           <li data-target="#home-slider" data-slide-to="0" className="active"></li>
-          <li data-target="#home-slider" data-slide-to="1"></li>
-          <li data-target="#home-slider" data-slide-to="2"></li>
+          <li data-target="#home-slider" data-slide-to="1"></li>        
         </ol>
         <div className="carousel-inner">
           <div className="carousel-item active">
